@@ -1,4 +1,4 @@
-# Logfile created on 2010-11-18 21:06:28 -0600 by logger.rb/25413
+# Logfile created on 2010-11-22 11:11:57 -0600 by logger.rb/25413
 REQUESTING PAGE: GET / with {} and HTTP headers {}
 REQUESTING PAGE: GET /about with {} and HTTP headers {"HTTP_REFERER"=>"/"}
 REQUESTING PAGE: GET /help with {} and HTTP headers {"HTTP_REFERER"=>"/about"}
